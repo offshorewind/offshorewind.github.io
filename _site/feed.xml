@@ -1,14 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Your awesome title</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+    <title>My Rabbit Hole</title>
+    <description>Love languages, love technology, love bunnies!
 </description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 14 Apr 2017 15:51:11 +0200</pubDate>
-    <lastBuildDate>Fri, 14 Apr 2017 15:51:11 +0200</lastBuildDate>
+    <pubDate>Fri, 14 Apr 2017 18:01:39 +0200</pubDate>
+    <lastBuildDate>Fri, 14 Apr 2017 18:01:39 +0200</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>Let&#39;s have some fun!</title>
+        <description>&lt;p&gt;Today I post this article on this very newly built personal webpage.&lt;/p&gt;
+
+&lt;p&gt;Thanks for all the technologists who make this possible and convinient for everyone.&lt;/p&gt;
+
+&lt;p&gt;You are most admired!&lt;/p&gt;
+</description>
+        <pubDate>Fri, 14 Apr 2017 17:20:00 +0200</pubDate>
+        <link>http://yourdomain.com/moments/2017/04/14/first-post.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/moments/2017/04/14/first-post.html</guid>
+        
+        
+        <category>moments</category>
+        
+      </item>
     
       <item>
         <title>Welcome to Jekyll!</title>
