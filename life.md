@@ -11,7 +11,3 @@ For more personal information about me, please visit me at: [facebook](https://w
 Thank you!
 
 
-
-#You can find the source code for Jekyll at
-#{% include icon-github.html username="jekyll" %} /
-#[jekyll](https://github.com/jekyll/jekyll)
