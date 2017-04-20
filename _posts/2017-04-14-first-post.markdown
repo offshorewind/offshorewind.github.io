@@ -6,6 +6,6 @@ categories: moments
 ---
 Today I post this article on this very newly built personal webpage.
 
-Thanks for all the technologists who make this possible and convinient for everyone.
+Thanks for all the technologists who make this possible and convenient for everyone.
 
 You are most admired!
