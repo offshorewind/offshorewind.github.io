@@ -10,9 +10,5 @@ Thanks for all the technologists who make this possible and convenient for every
 
 You are most admired!
 
-
-Please find my CV.pdf here : [a concise CV]
-
 Thank you!
 
-[a concise CV]:{{offshorewind.github.io}}/download/cv_yuhan_liu.pdf
