@@ -4,10 +4,10 @@ title: About Me
 permalink: /about/
 ---
 
-Please find my CV.pdf here : [a concise CV]
+Please find my CV pdf file here : [a concise CV]
 
 For a detailed CV or more personal information about me, please visit me at: [facebook](https://www.facebook.com/liu.yuhan.ms)
 
 Thank you!
 
-[a concise CV]:{{offshorewind.github.io}}/download/cv_yuhan_liu.pdf
+[a concise CV]:{{offshorewind.github.io}}/download/concise_cv_yuhan_liu.pdf
