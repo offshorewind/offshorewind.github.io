@@ -6,3 +6,5 @@ categories: moments
 ---
 Today I got my super cool Octave data visualization work done.
 It is a memorable moment for me. Now I know what is behind the cool pics!
+
+Thank especially Dr. Andrew Ng for the awesome course : Machine learning on Coursera!
